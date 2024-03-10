@@ -1,5 +1,8 @@
 {
     "user": [
-        
+        "id": '',
+        "usename": '',
+        "option": '',
+        "text": ''
     ]
 }
