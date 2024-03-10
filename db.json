@@ -1,7 +1,9 @@
 {
     "ask": [
-        "usename": "Lester",
-        "option": "question",
-        "text": "Are you a pornstar?"
+        {
+            "usename": "Lester",
+            "option": "question",
+            "text": "Are you a pornstar?"
+        }
     ]
 }
